@@ -1,1 +1,1 @@
-Rscript -e 'source("hello.R")'
+print("hello aphids!")
